@@ -1,0 +1,30 @@
+﻿  Solar-System-program.cpp
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(57,18): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(58,18): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(60,18): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(89,74): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(89,59): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(89,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(89,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(98,74): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(98,59): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(98,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(98,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(107,56): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(107,47): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(107,38): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(107,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(117,74): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(117,59): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(117,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(117,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(126,68): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(126,55): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(126,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(126,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(133,51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(135,74): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(135,59): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(135,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Solar-System-program.cpp(135,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Solar-System-program.vcxproj -> C:\Users\user\Desktop\git\Solar-System-program\Solar-System-program\Debug\Solar-System-program.exe
