@@ -2,9 +2,9 @@
 
 * 구현 영상
 
+https://user-images.githubusercontent.com/72932028/142933733-9475efce-dd70-46cf-b998-1c6d4e504992.mp4
 
 
-https://user-images.githubusercontent.com/72932028/142932945-5233c0df-57ad-46d8-84ee-4bfb1148cb6e.mp4
 
 * 2.1 프로그램 설명
 
